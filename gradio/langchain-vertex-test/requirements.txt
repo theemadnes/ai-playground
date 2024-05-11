@@ -1,0 +1,4 @@
+gradio
+langchain-google-vertexai
+langchain_core
+python-dotenv
